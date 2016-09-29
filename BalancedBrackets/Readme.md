@@ -18,7 +18,7 @@ Each line  of the  subsequent lines consists of a single string, , denoting a se
 Output Format
 
 For each string, print whether or not the string of brackets is balanced on a new line. If the brackets are balanced, print YES; otherwise, print NO.
-
+ 
 Sample Input
 
 3
